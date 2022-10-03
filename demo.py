@@ -1,3 +1,3 @@
 print("demo")
 
-print("work done")
+print("work completed")
